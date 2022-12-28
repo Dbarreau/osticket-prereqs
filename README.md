@@ -9,7 +9,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Video Demonstration</h2>
 
 
-- ### [Youtube: How to create a Virtual Machine: First Prerequisite](https://youtu.be/YGWak28859s)
+- ### [YouTube: How to create a Virtual Machine: First Prerequisite](https://youtu.be/YGWak28859s)
 - ### [YouTube: How To Install osTicket with other Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
