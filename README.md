@@ -3,14 +3,14 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This repository displays the tutorial of the osTicket's installation and its rudiments. The first rudiment begins with composing a virtual machine via Microsoft Azure. After that, there is a series of programs to support osTicket: IIS, HeidiSQL, and more.<br />
 
 
 <h2><img src="https://user-images.githubusercontent.com/121436228/209778109-d136551c-80f5-4185-a43b-fd1bab7a2fcb.png">
 Video Demonstration</h2> 
   
+- ###  [YouTube: How To Install osTicket With Prerequisites](https://www.youtube.com)
 - ###  [YouTube: How To Create A Virtual Machine: First Prerequisite](https://youtu.be/YGWak28859s)
-- ###  [YouTube: How To Install osTicket With Other Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -26,9 +26,9 @@ Video Demonstration</h2>
 
 - Compose a Virtual Machine with Microsoft Azure
 - Install Web Server: Internet Information Service (IIS)
-- Install Web Platform Installer then add MySQL Database 5.5
-- Install files such as PHP Version 7.3.8, PHP Manager, Microsoft Visual C ++
-- Install the latest osTicket Version 
+- Install Web Platform Installer then MySQL Database 5.5
+- Install Files: PHP v7.3.8, PHP Manager, Microsoft Visual C ++
+- Install the Latest osTicket Version 
 - Install HeidiSQL
 
 <h2>Installation Steps</h2>
