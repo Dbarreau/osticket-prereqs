@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://imgur.com/a/u4qZILE"/>
+<img src="[https://imgur.com/a/u4qZILE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.synaxiom.com%2Fos-ticket-helpdesk%2F&psig=AOvVaw24gg4DD2d1ZF650TmKB0qI&ust=1672296459388000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKj6ifbbm_wCFQAAAAAdAAAAABAc)"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
