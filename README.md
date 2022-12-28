@@ -1,6 +1,6 @@
 <p align="center">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/ozNjDXs"  ><a href="//imgur.com/a/ozNjDXs">Angelica Pickles did her dirty.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<img src=https://imgur.com/a/u4qZILE/>
+
+<img src="https://imgur.com/a/u4qZILE"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
