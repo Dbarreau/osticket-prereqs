@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/a/u4qZILE"/></img>
+<img src="https://imgur.com/hRLIPoG"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
