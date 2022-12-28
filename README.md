@@ -5,18 +5,15 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
+![Github YT logo](https://user-images.githubusercontent.com/121436228/209777250-8b785c4d-f63d-4481-aef6-19e51687adc3.png)
 
 <h2>Video Demonstration</h2>
 
-<img src="[https://ik.imagekit.io/ikmedia/women-dress-2.jpg](https://user-images.githubusercontent.com/121436228/209774739-6ce7d22f-d88f-4107-97ac-21427f02aabf.png)" 
-     width="400" 
-     height="500" />
+<img src="https://user-images.githubusercontent.com/121436228/209777250-8b785c4d-f63d-4481-aef6-19e51687adc3.png">
 
 
-- ### <img src="https://user-images.githubusercontent.com/121436228/209774739-6ce7d22f-d88f-4107-97ac-21427f02aabf.png" 
- width="10" 
- height="5" /> [YouTube: How to create a Virtual Machine: First Prerequisite](https://youtu.be/YGWak28859s)
-- ### <img src="https://user-images.githubusercontent.com/121436228/209774739-6ce7d22f-d88f-4107-97ac-21427f02aabf.png"> [YouTube: How To Install osTicket with other Prerequisites](https://www.youtube.com)
+- ### <img src="https://user-images.githubusercontent.com/121436228/209777250-8b785c4d-f63d-4481-aef6-19e51687adc3.png"> [YouTube: How to create a Virtual Machine: First Prerequisite](https://youtu.be/YGWak28859s)
+- ### <img src="https://user-images.githubusercontent.com/121436228/209777250-8b785c4d-f63d-4481-aef6-19e51687adc3.png"> [YouTube: How To Install osTicket with other Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
