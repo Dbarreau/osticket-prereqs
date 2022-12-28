@@ -9,9 +9,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Video Demonstration</h2>
 
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 - ### [Youtube: How to create a Virtual Machine: First Prerequisite](https://youtu.be/YGWak28859s)
+- ### [YouTube: How To Install osTicket with other Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -25,11 +24,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Compose a Virtual Machine with Microsoft Azure
+- Install Web Server: Internet Information Service (IIS)
+- Install Web Platform Installer
+- Add MySQL Database 5.5
+- Install files suchs as PHP Version 7.3.8, PHP Manager, Microsoft Visual C ++
+- Install osTicket Version 1.15.8
+- Install HeidiSQL
 
 <h2>Installation Steps</h2>
 
