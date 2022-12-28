@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-<img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+<img src="[https://ik.imagekit.io/ikmedia/women-dress-2.jpg](https://user-images.githubusercontent.com/121436228/209774739-6ce7d22f-d88f-4107-97ac-21427f02aabf.png)" 
      width="400" 
      height="500" />
 
