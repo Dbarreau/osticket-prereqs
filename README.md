@@ -1,11 +1,7 @@
-<p align="left">
+<p align="right">
   
 ![osticket-supsys-sm](https://user-images.githubusercontent.com/121436228/209773155-7b753a93-42e9-4d82-b534-4c46ebc6adc7.png)
   
-</p>
-  
-  
-<img src="[https://%3A%2F%2Fwww.synaxiom.com%2Fos-ticket-helpdesk%2F&psig=AOvVaw24gg4DD2d1ZF650TmKB0qI&ust=1672296459388000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKj6ifbbm_wCFQAAAAAdAAAAABAc)"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
