@@ -26,10 +26,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Compose a Virtual Machine with Microsoft Azure
 - Install Web Server: Internet Information Service (IIS)
-- Install Web Platform Installer
-- Add MySQL Database 5.5
-- Install files suchs as PHP Version 7.3.8, PHP Manager, Microsoft Visual C ++
-- Install osTicket Version 1.15.8
+- Install Web Platform Installer then add MySQL Database 5.5
+- Install files such as PHP Version 7.3.8, PHP Manager, Microsoft Visual C ++
+- Install the latest osTicket Version 
 - Install HeidiSQL
 
 <h2>Installation Steps</h2>
