@@ -13,7 +13,7 @@ reference https://github.com/joshmadakorcc
 
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This repository displays the tutorial of the osTicket's installation and its rudiments. The first rudiment begins with composing a virtual machine via Microsoft Azure. After that, there is a series of programs to support osTicket: IIS, HeidiSQL, and more.<br />
+This repository displays the tutorial of the osTicket's installation and its rudiments (prerequisite). The first rudiment begins with composing a virtual machine via Microsoft Azure. After that, there is a series of programs to support osTicket: IIS, HeidiSQL, and more.<br />
 
 
 <h2><img src="https://user-images.githubusercontent.com/121436228/209778109-d136551c-80f5-4185-a43b-fd1bab7a2fcb.png">
