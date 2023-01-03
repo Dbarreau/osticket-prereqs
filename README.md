@@ -36,9 +36,9 @@ Video Demonstration</h2>
 
 - Compose a Virtual Machine with Microsoft Azure
 - Install Web Server: Internet Information Service (IIS)
-- Install Web Platform Installer then MySQL Database 5.5
-- Install Files: PHP v7.3.8, PHP Manager, Microsoft Visual C ++
-- Install the Latest osTicket Version 
+- Install Web Platform Installer
+- Install Files: PHP Manager and Microsoft Visual C ++
+- Install the osTicket Installer
 - Install HeidiSQL
 
 <h2>Installation Steps</h2>
