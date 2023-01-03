@@ -34,7 +34,7 @@ Video Demonstration</h2>
 
 <h2>List of Prerequisites</h2>
 
-- Compose a Virtual Machine with Microsoft Azure
+- Install a Virtual Machine with Microsoft Azure
 - Install Web Server: Internet Information Service (IIS)
 - Install Web Platform Installer
 - Install Files: PHP Manager and Microsoft Visual C ++
