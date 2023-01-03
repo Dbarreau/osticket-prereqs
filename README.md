@@ -40,7 +40,7 @@ Video Demonstration</h2>
 - Install Files: PHP Manager and Microsoft Visual C ++
 - Install the osTicket Installer
 - Install HeidiSQL
-- Eliminating the osTicket's "Setup" folder
+- Eliminate the osTicket's "Setup" folder
 
 <h2>Installation Steps</h2>
 
