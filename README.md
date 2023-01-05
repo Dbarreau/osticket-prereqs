@@ -115,13 +115,16 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 
 9. On the left side of IIS Manager under "Connection", click on Sites ➪ Default Web Site ➪ osTicket
 10. Then on the right side of IIS manager click "Browse *.80 (http)"
-11. The osTicket Installer will open another webpage tab that displays the missing extentions
-<p align="center"><img src="https://user-images.githubusercontent.com/121436228/210877514-91796dc7-8b6f-4f78-8c7d-71cebe750fa4.jpg"/></p>
-12. Enable the extentions by going to the IIS App
+11. The osTicket Installer will open another webpage tab that displays the missing extensions
+<p align="center"><img src="https://user-images.githubusercontent.com/121436228/210877514-91796dc7-8b6f-4f78-8c7d-71cebe750fa4.jpg"/>
+</p>
+
+12. Enable the extensions by going to the IIS App
 13. Under the "Connection" section click on Sites ➪ Default Web Site ➪ osTicket
 14. Then click on the PHP Manager program
 15. Hit the "Enable or disable an extention"
-<p align="center"><img src="https://user-images.githubusercontent.com/121436228/210877740-254f7cdd-bec9-4cd2-ba30-56f5a678a0f1.jpg"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/121436228/210877740-254f7cdd-bec9-4cd2-ba30-56f5a678a0f1.jpg"/>
+</p>
 
 
 
