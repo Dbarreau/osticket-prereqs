@@ -98,7 +98,7 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 
 5. __The Web Platform Installer, PHP Manager and Microsoft Visual C++ Installation Complete!__
 
-<h2> Fourth Rudiment: Installing osTicket Installer</h2>
+<h2> Fourth Rudiment: Installing the osTicket Installer</h2>
 <p><img src="https://user-images.githubusercontent.com/121436228/210858079-69bb32c5-93f2-4857-9e4d-5bf23a928386.jpg"/></p>
 
 1. Download the __osTicket v.1.15.8 Installer__
