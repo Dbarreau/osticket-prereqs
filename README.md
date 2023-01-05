@@ -40,9 +40,10 @@ Video Demonstration</h2>
 - Install Files: PHP Manager and Microsoft Visual C ++
 - Install the osTicket Installer
 - Install HeidiSQL
+
 - Eliminate the osTicket's "Setup" Directory
 
-<h2><img src="https://user-images.githubusercontent.com/121436228/210845487-6d0bf96c-ed2e-472d-9108-de4f61b9bbb0.png"/> First Rudiment: Installing a Virtual Machine</h2>
+<h2><img src="https://user-images.githubusercontent.com/121436228/210846099-7fb4e5a4-541a-43bf-8720-ef0c35471852.png"/> First Rudiment: Installing a Virtual Machine</h2>
 
 <p><img src="https://user-images.githubusercontent.com/121436228/210839261-bdd2b654-c2b0-4388-88f0-cdeccd66f02e.jpg"/>
 </p>
