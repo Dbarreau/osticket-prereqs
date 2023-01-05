@@ -129,7 +129,7 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 16. Right click "php_intl.dll" and "php_opcache.dll" to enable the missing extensions
 17. Go back to the osTicket Installer Webpage then hit "Continue"
 18. Now let's change the __"C:/ipnet/wwwroot/osticket/include/osT-sampleconfig"__ to
-"C:/ipnet/wwwroot/osticket/include/osT-config"
+__"C:/ipnet/wwwroot/osticket/include/osT-config"__
 <p><img src="https://user-images.githubusercontent.com/121436228/210880130-e54b5cdb-5473-4df8-8936-0fa1be257cf4.jpg"/></p>
 19. Go to the "File Explorer" and go to "C:/ipnet/wwwroot/osticket/include"
 20. Look for the file "osT-sampleconfig" then rename it by erasing the word "sample" in the file name
