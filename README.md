@@ -17,7 +17,7 @@ This repository displays the tutorial of the osTicket's installation and its rud
 
 
 <h2><img src="https://user-images.githubusercontent.com/121436228/209778109-d136551c-80f5-4185-a43b-fd1bab7a2fcb.png">
-Video Demonstration</h2> 
+Video Demonstration<img src="https://user-images.githubusercontent.com/121436228/209778109-d136551c-80f5-4185-a43b-fd1bab7a2fcb.png"></h2> 
   
 - ###  [YouTube: How To Install osTicket With Prerequisites](https://www.youtube.com/watch?v=ceEH3uJY5a0)
 - ###  [YouTube: How To Create A Virtual Machine: First Prerequisite](https://youtu.be/YGWak28859s)
@@ -43,7 +43,7 @@ Video Demonstration</h2>
 
 - Eliminate the osTicket's "Setup" Directory
 
-<h2><img src="https://user-images.githubusercontent.com/121436228/210846504-39b1b2f3-9810-47f1-ad7e-05441a4ed097.png"/> First Rudiment: Installing a Virtual Machine</h2>
+<h2><img src="https://user-images.githubusercontent.com/121436228/210846504-39b1b2f3-9810-47f1-ad7e-05441a4ed097.png"/> First Rudiment: Installing a Virtual Machine<img src="https://user-images.githubusercontent.com/121436228/210846504-39b1b2f3-9810-47f1-ad7e-05441a4ed097.png"/></h2>
 
 
 <p><img src="https://user-images.githubusercontent.com/121436228/210839261-bdd2b654-c2b0-4388-88f0-cdeccd66f02e.jpg"/>
@@ -69,7 +69,7 @@ Video Demonstration</h2>
 <p/>
 
 
-
+<h2> Second Rudiment: Installing the Internet Information Service (IIS)<h2/>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
