@@ -92,10 +92,10 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 - "PHP 7.3 (x86)"
 
 3. Download the PHP Manager
-<p><img src="https://user-images.githubusercontent.com/121436228/210853689-a2366745-8725-41e4-a29d-8719e0c39702.jpg"/></p>
+<p><img src="https://user-images.githubusercontent.com/121436228/210855911-dec394ed-5cf5-4f3e-8c9e-f82a7243070a.png"/></p>
 
 4. Download the Microsoft Visual C++
-<p><img src="https://user-images.githubusercontent.com/121436228/210853705-45f0d710-ff6c-4574-8879-023edf9e3b5d.jpg"/></p> 
+<p><img src="https://user-images.githubusercontent.com/121436228/210855929-cee67635-fe25-46ef-a561-aab059855fb7.png)"/></p> 
   
   
   
