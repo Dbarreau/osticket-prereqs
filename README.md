@@ -82,15 +82,20 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 <p><img src="https://user-images.githubusercontent.com/121436228/210852054-3986cd61-5e35-4e91-a75d-2053a6680ca2.jpg"/>
 </p>
 
-1. Download the "Web Platfrom Installer
-2. Search then ADD "MySQL 5.5"
+1. Download the "Web Platfrom Installer"
+2. Search then add the following programs 
+- "MySQL 5.5"
 - "PHP 5.6.31"
-- "PHP 7.0.
-- "PHP 7.1
-- "PHP 7.2
-- "PHP 7.3
--
-4. 
+- "PHP 7.0 (x86)
+- "PHP 7.1 (x86)"
+- "PHP 7.2 (x86)"
+- "PHP 7.3 (x86)"
+
+3. Download the PHP Manager
+<p><img src="https://user-images.githubusercontent.com/121436228/210853689-a2366745-8725-41e4-a29d-8719e0c39702.jpg"/></p>
+
+4. Download the Microsoft Visual C++
+<p><img src="https://user-images.githubusercontent.com/121436228/210853705-45f0d710-ff6c-4574-8879-023edf9e3b5d.jpg"/></p> 
   
   
   
