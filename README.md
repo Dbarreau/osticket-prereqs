@@ -110,6 +110,7 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 6. Rename "Upload" to "osTicket"
 7. Go to the IIS Manager App to press "restart"
 <p align="center"><img src="https://github.com/Dbarreau/osticket-prereqs/files/10355486/Restart.osTicket1.1.pdf"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/121436228/210858079-69bb32c5-93f2-4857-9e4d-5bf23a928386.jpg"/></p>
 
 
 9. On the left side of IIS Manager under "Connection", click on Sites> Default Web Site > osTicket
