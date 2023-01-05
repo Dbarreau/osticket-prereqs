@@ -65,7 +65,7 @@ Video Demonstration</h2>
 14. Then click "Connect"
 15. Log in with the username and password
 16. After the VM finish loading, hit "No" for all the settings
-__This is how Virtual Machines are installed.__
+<p>__This is how Virtual Machines are installed.__<p/>
 
 
 
