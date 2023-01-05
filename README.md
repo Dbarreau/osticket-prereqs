@@ -65,11 +65,21 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 14. Then click "Connect"
 15. Log in with the username and password
 16. After the VM finish loading, hit "No" for all the settings
-<p> This is how Virtual Machines are installed.
-<p/>
+17. __Virtual Machine Installation Complete!__
 
 
 <h2> Second Rudiment: Installing the Internet Information Service (IIS)<h2/>
+  <p><img src="https://user-images.githubusercontent.com/121436228/210849746-ffda9b23-7d47-4cbe-9ee4-32a22c3be9f4.jpg"/>
+  </p>
+ 
+  1. In the VM, go to the Search section and type "Windows Features"
+  2. Click on "Windows Features"
+  3. Check off the "Internet Information Service" box
+  4. Then click "OK"
+  5. __Internet Information Service Installation Complete!__
+  
+  
+  
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
