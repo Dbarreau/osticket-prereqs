@@ -48,10 +48,10 @@ Video Demonstration</h2>
 <img src="https://user-images.githubusercontent.com/121436228/210839261-bdd2b654-c2b0-4388-88f0-cdeccd66f02e.jpg"/>
 </p>
 
-- 1. Log in to the Microsoft Azure
-- 2. Search "Virtual Machine"
-* 3. Create a "New Virtual Machine" named "osTicket"
-+ 4. Create a "New Resource Group" named "RG"
+1. Log in to the Microsoft Azure
+2. Search "Virtual Machine"
+3. Create a "New Virtual Machine" named "osTicket"
+4. Create a "New Resource Group" named "RG"
 5. Select a Region: (US) East US
 6. Change the Image (Operating System) to Windows 10 Pro 21H2
 7. Select the size of the VM to "2vcpu or 4vcpu" (virtual central processing units)
