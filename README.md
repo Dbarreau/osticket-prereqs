@@ -22,7 +22,7 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 - ###  [YouTube: How To Install osTicket With Prerequisites](https://www.youtube.com/watch?v=ceEH3uJY5a0)
 - ###  [YouTube: How To Create A Virtual Machine: First Prerequisite](https://youtu.be/YGWak28859s)
 
-<h2💻>Environments and Technologies Used💻</h2>
+<h2>👨‍💻Environments and Technologies Used👨‍💻</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
