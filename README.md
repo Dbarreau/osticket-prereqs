@@ -43,7 +43,8 @@ Video Demonstration</h2>
 
 - Eliminate the osTicket's "Setup" Directory
 
-<h2><img src="https://user-images.githubusercontent.com/121436228/210846099-7fb4e5a4-541a-43bf-8720-ef0c35471852.png"/> First Rudiment: Installing a Virtual Machine</h2>
+<h2><img src="https://user-images.githubusercontent.com/121436228/210846504-39b1b2f3-9810-47f1-ad7e-05441a4ed097.png"/> First Rudiment: Installing a Virtual Machine</h2>
+
 
 <p><img src="https://user-images.githubusercontent.com/121436228/210839261-bdd2b654-c2b0-4388-88f0-cdeccd66f02e.jpg"/>
 </p>
