@@ -28,11 +28,11 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>💻Operating Systems Used💻 </h2>
 
 - Windows 10 Pro</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>📋List of Prerequisites📋</h2>
 
 - Install a Virtual Machine with Microsoft Azure
 - Install Web Server: Internet Information Service (IIS)
@@ -40,7 +40,6 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 - Install Files: PHP Manager and Microsoft Visual C ++
 - Install the osTicket Installer
 - Install HeidiSQL
-
 - Eliminate the osTicket's "Setup" Directory
 
 <h2><img src="https://user-images.githubusercontent.com/121436228/210846504-39b1b2f3-9810-47f1-ad7e-05441a4ed097.png"/> First Rudiment: Installing a Virtual Machine<img src="https://user-images.githubusercontent.com/121436228/210846504-39b1b2f3-9810-47f1-ad7e-05441a4ed097.png"/></h2>
