@@ -42,10 +42,9 @@ Video Demonstration</h2>
 - Install HeidiSQL
 - Eliminate the osTicket's "Setup" Directory
 
-<h2>First Rudiment: Installing a Virtual Machine</h2>
+<h2><img src="https://user-images.githubusercontent.com/121436228/210845487-6d0bf96c-ed2e-472d-9108-de4f61b9bbb0.png"/> First Rudiment: Installing a Virtual Machine</h2>
 
-<p>
-<img src="https://user-images.githubusercontent.com/121436228/210839261-bdd2b654-c2b0-4388-88f0-cdeccd66f02e.jpg"/>
+<p><img src="https://user-images.githubusercontent.com/121436228/210839261-bdd2b654-c2b0-4388-88f0-cdeccd66f02e.jpg"/>
 </p>
 
 1. Log in to the Microsoft Azure
