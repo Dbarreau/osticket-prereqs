@@ -96,6 +96,26 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 
 4. Download the Microsoft Visual C++
 <p align="center"><img src="https://user-images.githubusercontent.com/121436228/210855929-cee67635-fe25-46ef-a561-aab059855fb7.png"/></p> 
+
+5. __The Web Platform Installer, PHP Manager and Microsoft Visual C++ Installation Complete!__
+
+<h2> Fourth Rudiment: Installing osTicket Installer</h2>
+<p><img src="https://user-images.githubusercontent.com/121436228/210858079-69bb32c5-93f2-4857-9e4d-5bf23a928386.jpg"/></p>
+
+1. Download the __osTicket v.1.15.8 Installer__
+2. Go to "File Explorer" then to "Download"
+3. Right click on the "osTicket" folder then click "Extract all"
+4. After the installation completes, copy the "Upload" folder
+5. Paste the "Upload" folder to C:/inetput/wwwroot
+6. Rename "Upload" to "osTicket"
+7. Go to the IIS Manager App to press "restart"
+<p align="center"><img src="https://github.com/Dbarreau/osticket-prereqs/files/10355486/Restart.osTicket1.1.pdf"/></p>
+
+
+9. On the left side of IIS Manager under "Connection", click on Sites> Default Web Site > osTicket
+10. Then on the right side of IIS manager click "Browse *.80 (http)"
+
+
   
   
   
