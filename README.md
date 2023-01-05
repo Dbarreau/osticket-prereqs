@@ -49,24 +49,23 @@ Video Demonstration</h2>
 <p><img src="https://user-images.githubusercontent.com/121436228/210839261-bdd2b654-c2b0-4388-88f0-cdeccd66f02e.jpg"/>
 </p>
 
-1. Log in to the Microsoft Azure
-2. Search "Virtual Machine"
-3. Create a "New Virtual Machine" named "osTicket"
-4. Create a "New Resource Group" named "RG"
-5. Select a Region: (US) East US
-6. Change the Image (Operating System) to Windows 10 Pro 21H2
-7. Select the size of the VM to "2vcpu or 4vcpu" (virtual central processing units)
-8. Create a username and password
-9. Check off the licensing for Multi-tenant hosting rights
-10. Click "Create"
-11. Once the virtual machine's installation completes, go to the Virtual Machine's Resource section
-12. At the overview tab, copy the Public  IP Address of the VM
-10. Go to the search button and type "Remote Desktop Connection"
-11. Paste the Virtual Machine's public IP at the Computer sections
-12. Then click "Connect"
-13. Log in with the username and password
-14. After it finish loading, hit "No" for all the settings
-15. This is how Virtual Machines are installed
+1. Search "Virtual Machine" with the Microsoft Azure's account
+2. Create a "New Virtual Machine" named "osTicket"
+3. Create a "New Resource Group" named "RG"
+4. Select a Region: (US) East US
+5. Change the Image (Operating System) to Windows 10 Pro 21H2
+6. Select the size of the VM to "2vcpu or 4vcpu" (virtual central processing units)
+7. Create a username and password
+8. Check off the licensing for Multi-tenant hosting rights
+9. Click "Create"
+10. Once the virtual machine's installation completes, go to the Virtual Machine's Resource section
+11. At the overview tab, copy the Public  IP Address of the VM
+12. Go to the search button and type "Remote Desktop Connection"
+13. Paste the Virtual Machine's public IP at the Computer sections
+14. Then click "Connect"
+15. Log in with the username and password
+16. After it finish loading, hit "No" for all the settings
+<bold>This is how Virtual Machines are installed</bold>
 
 
 
