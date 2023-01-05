@@ -77,6 +77,21 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
   3. Check off the "Internet Information Service" box
   4. Then click "OK"
   5. __Internet Information Service Installation Complete!__
+
+<h2> Third Rudiment: Installing Web Platform Installer</h2>
+<p><img src="https://user-images.githubusercontent.com/121436228/210852054-3986cd61-5e35-4e91-a75d-2053a6680ca2.jpg
+"/>
+</p>
+
+1. Download the "Web Platfrom Installer
+2. Search then ADD "MySQL 5.5"
+- "PHP 5.6.31"
+- "PHP 7.0.
+- "PHP 7.1
+- "PHP 7.2
+- "PHP 7.3
+-
+4. 
   
   
   
