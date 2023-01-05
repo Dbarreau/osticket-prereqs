@@ -42,6 +42,56 @@ Video Demonstration</h2>
 - Install HeidiSQL
 - Eliminate the osTicket's "Setup" Directory
 
+<h2>First Rudiment: Installing a Virtual Machine</h2>
+
+<p>
+<img src="https://user-images.githubusercontent.com/121436228/210839261-bdd2b654-c2b0-4388-88f0-cdeccd66f02e.jpg"/>
+</p>
+1. Log in to the Microsoft Azure
+2. Search "Virtual Machine"
+3. Create a "New Virtual Machine" named "osTicket"
+4. Create a "New Resource Group" named "RG"
+5. Select a Region: (US) East US
+6. Change the Image (Operating System) to Windows 10 Pro 21H2
+7. Select the size of the VM to "2vcpu or 4vcpu" (virtual central processing units)
+8. Create a username and password
+9. Check off the licensing for Multi-tenant hosting rights
+10. Click "Create"
+11. Once the virtual machine's installation completes, go to the Virtual Machine's Resource section
+12. At the overview tab, copy the Public  IP Address of the VM
+10. Go to the search button and type "Remote Desktop Connection"
+11. Paste the Virtual Machine's public IP at the Computer sections
+12. Then click "Connect"
+13. Log in with the username and password
+14. After it finish loading, hit "No" for all the settings
+15. This is how Virtual Machines are installed
+
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
 <h2>Installation Steps</h2>
 
 <p>
@@ -67,3 +117,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
