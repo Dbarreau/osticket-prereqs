@@ -68,7 +68,7 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 17. __Virtual Machine Installation Complete!__
 
 
-<h2> Second Rudiment: Installing the Internet Information Service (IIS)<h2/>
+<h2> Second Rudiment: Installing the Internet Information Service (IIS)</h2>
   <p><img src="https://user-images.githubusercontent.com/121436228/210849746-ffda9b23-7d47-4cbe-9ee4-32a22c3be9f4.jpg"/>
   </p>
  
