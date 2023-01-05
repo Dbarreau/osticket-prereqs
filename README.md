@@ -53,19 +53,19 @@ Video Demonstration</h2>
 2. Create a "New Virtual Machine" named "osTicket"
 3. Create a "New Resource Group" named "RG"
 4. Select a Region: (US) East US
-5. Change the Image (Operating System) to Windows 10 Pro 21H2
-6. Select the size of the VM to "2vcpu or 4vcpu" (virtual central processing units)
+5. Change the Image (Operating System) to __Windows 10 Pro__ 21H2
+6. Select the size of the Virtual Machine (VM) to "2vcpu or 4vcpu" (virtual central processing units)
 7. Create a username and password
 8. Check off the licensing for Multi-tenant hosting rights
 9. Click "Create"
-10. Once the virtual machine's installation completes, go to the Virtual Machine's Resource section
-11. At the overview tab, copy the Public  IP Address of the VM
+10. Once the VM's installation completes, go to the VM's resource section
+11. At the overview tab, copy the VM's Public IP Address
 12. Go to the search button and type "Remote Desktop Connection"
-13. Paste the Virtual Machine's public IP at the Computer sections
+13. Paste the Virtual Machine's public IP address in the Computer section
 14. Then click "Connect"
 15. Log in with the username and password
-16. After it finish loading, hit "No" for all the settings
-<bold>This is how Virtual Machines are installed</bold>
+16. After the VM finish loading, hit "No" for all the settings
+__This is how Virtual Machines are installed.__
 
 
 
