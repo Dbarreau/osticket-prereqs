@@ -156,15 +156,18 @@ __"C:/inetpub/wwwroot/osticket/include/osT-config.php"__
 1. Download "HeidiSQL"
 <p><img src="https://user-images.githubusercontent.com/121436228/211042600-789912b0-9877-4612-81c2-324cdd78c0b6.jpg"/>
 </p>
+
 HeidiSQL is used for directory operation purposes and we are going to connect it to the Port 3306 which is the MySQL's protocol.
 2. Log in under the Username: __root__ by putting in your password: __************__
 <p><img src="https://user-images.githubusercontent.com/121436228/211044042-9d0588b7-0438-4bdf-8589-e6dc36df1a3b.jpg"/>
 </p>
+
 3. Then hit "Open"
 4. Right click "__unnamed__"➪Create➪A New Database
 5. Make sure you name the new Database "osTicket" correctly
 <p><img src="https://user-images.githubusercontent.com/121436228/211044679-052004df-37cf-4114-b658-2990dbcbfbff.jpg"/>
   </p>
+  
 7. Then hit "OK"
 8. __The HeidiSQL's installation is now completed!__
 
@@ -176,6 +179,8 @@ HeidiSQL is used for directory operation purposes and we are going to connect it
 4. Put your password
 5. Then hit "Continue"
 6. __🎉CONGRATULATIONS🎉__
+<p><img src="https://user-images.githubusercontent.com/121436228/211047275-640d5fb4-1316-42b8-8ac3-5bf62851a177.jpg">
+</p>
 
 
 
