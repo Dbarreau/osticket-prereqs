@@ -158,7 +158,9 @@ __"C:/inetpub/wwwroot/osticket/include/osT-config.php"__
 </p>
 
 HeidiSQL is used for directory operation purposes and we are going to connect it to the Port 3306 which is the MySQL's protocol.
+
 2. Log in under the Username: __root__ by putting in your password: __************__
+
 <p><img src="https://user-images.githubusercontent.com/121436228/211044042-9d0588b7-0438-4bdf-8589-e6dc36df1a3b.jpg"/>
 </p>
 
@@ -169,7 +171,7 @@ HeidiSQL is used for directory operation purposes and we are going to connect it
   </p>
   
 7. Then hit "OK"
-8. __The HeidiSQL's installation is now completed!__
+8. __The HeidiSQL's installation is complete!__
 
 
 <h2>Fourth Rudiment: Installing the osTicket Installer (Part 2)</h2>
