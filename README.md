@@ -99,7 +99,7 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 
 5. __The Web Platform Installer, PHP Manager and Microsoft Visual C++ Installation Complete!__
 
-<h2> Fourth Rudiment: Installing the osTicket Installer</h2>
+<h2> Fourth Rudiment: Installing the osTicket Installer (Part 1)</h2>
 <p><img src="https://user-images.githubusercontent.com/121436228/210858079-69bb32c5-93f2-4857-9e4d-5bf23a928386.jpg"/></p>
 
 1. Download the __osTicket v.1.15.8 Installer__
@@ -145,10 +145,37 @@ __"C:/inetpub/wwwroot/osticket/include/osT-config.php"__
 24. "Allow" "Everyone" to have "Full Access" just like below
 <p><img src="https://user-images.githubusercontent.com/121436228/211038165-09ab0600-43bf-4622-98b0-4395fb48bc4b.jpg"/>
 </p>
-25. 
+25. Go back the osTicket Installer then click "Continue"
+26. Fill out the Basic Information
+<p><img src="https://user-images.githubusercontent.com/121436228/211041427-52356d64-348d-4fc4-ba48-c45a0fa47a9d.jpg"/>
+</p>
+
+27. __The osTicket Installer's process is almost finish because the HeidiSQL is the database's "middle man"__
+
+<h2>Fifth Rudiment: Installing the HeidiSQL Program</h2>
+1. Download "HeidiSQL"
+<p><img src="https://user-images.githubusercontent.com/121436228/211042600-789912b0-9877-4612-81c2-324cdd78c0b6.jpg"/>
+</p>
+HeidiSQL is used for directory operation purposes and we are going to connect it to the Port 3306 which is the MySQL's protocol.
+2. Log in under the Username: __root__ by putting in your password: __************__
+<p><img src="https://user-images.githubusercontent.com/121436228/211044042-9d0588b7-0438-4bdf-8589-e6dc36df1a3b.jpg"/>
+</p>
+3. Then hit "Open"
+4. Right click "__unnamed__"➪Create➪A New Database
+5. Make sure you name the new Database "osTicket" correctly
+<p><img src="https://user-images.githubusercontent.com/121436228/211044679-052004df-37cf-4114-b658-2990dbcbfbff.jpg"/>
+  </p>
+7. Then hit "OK"
+8. __The HeidiSQL's installation is now completed!__
 
 
-
+<h2>Fourth Rudiment: Installing the osTicket Installer (Part 2)</h2>
+1. Go back to the osTicket Installer's Webpage
+2. Under the Database Setting's section fill out the Database name as "osTicket"
+3. MySQL's username as "root"
+4. Put your password
+5. Then hit "Continue"
+6. __🎉CONGRATULATIONS🎉__
 
 
 
