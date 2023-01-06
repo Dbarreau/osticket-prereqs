@@ -142,7 +142,7 @@ __"C:/inetpub/wwwroot/osticket/include/osT-config.php"__
 21. Then go to Properties ➪ Security Tab ➪ Advanced ➪ Disabled inheritance ➪ Confirm it
 22. Select "A New Principal" 
 23. Type in "Everyone" then click on "Check names"
-24. "Allow" "Everyone" to have "Full Access" (Select all}
+24. "Allow" "Everyone" to have "Full Access" just like below
 <p><img src="https://user-images.githubusercontent.com/121436228/211038165-09ab0600-43bf-4622-98b0-4395fb48bc4b.jpg"/>
 </p>
 25. 
