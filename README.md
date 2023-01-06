@@ -116,7 +116,7 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 
 
 
-8. On the left side of IIS Manager under "Connection", click on Sites ➪ Default Web Site ➪ osTicket
+8. On the left side of IIS Manager under "Connections", click on Sites ➪ Default Web Site ➪ osTicket
 9. Then on the right side of IIS manager click "Browse *.80 (http)"
 10. The osTicket Installer will open another webpage tab that displays the missing extensions
 <p align="center"><img src="https://user-images.githubusercontent.com/121436228/210877514-91796dc7-8b6f-4f78-8c7d-71cebe750fa4.jpg"/>
