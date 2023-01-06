@@ -198,8 +198,7 @@ HeidiSQL is used for directory operation purposes and we are going to connect it
 2. Go to "File Explorer" then to C:/inetpub/wwwroot/osTicket/Setup
 3. Select "all the files"
 4. Right click then "delete"
-5. 
-6. Go to C:/inetpub/wwwroot/osTicket then delete the "Setup" folder
+5. Go to C:/inetpub/wwwroot/osTicket then delete the "Setup" folder
 
 <p><img src="https://user-images.githubusercontent.com/121436228/211050284-55db4bb0-c19a-40c3-b4ed-35ef2b0b6d68.jpg"/>
   </p>
