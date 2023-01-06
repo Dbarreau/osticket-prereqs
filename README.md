@@ -175,12 +175,15 @@ HeidiSQL is used for directory operation purposes and we are going to connect it
 
 
 <h2>Fourth Rudiment: Installing the osTicket Installer (Part 2)</h2>
+
 1. Go back to the osTicket Installer's Webpage
 2. Under the Database Setting's section fill out the Database name as "osTicket"
 3. MySQL's username as "root"
 4. Put your password
+
+
 5. Then hit "Continue"
-6. __🎉CONGRATULATIONS🎉__
+6.  __🎉CONGRATULATIONS🎉__
 <p><img src="https://user-images.githubusercontent.com/121436228/211047275-640d5fb4-1316-42b8-8ac3-5bf62851a177.jpg">
 </p>
 
