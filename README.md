@@ -20,8 +20,8 @@ This repository displays the tutorial of the osTicket's installation and its rud
 <h2><img src="https://user-images.githubusercontent.com/121436228/209778109-d136551c-80f5-4185-a43b-fd1bab7a2fcb.png">
 Video Demonstration<img src="https://user-images.githubusercontent.com/121436228/209778109-d136551c-80f5-4185-a43b-fd1bab7a2fcb.png"></h2> 
   
-- ###  [YouTube: How To Install osTicket With Prerequisites](https://www.youtube.com/watch?v=ceEH3uJY5a0)
 - ###  [YouTube: How To Create A Virtual Machine: First Prerequisite](https://youtu.be/YGWak28859s)
+- ###  [YouTube: How To Install osTicket With Prerequisites](https://www.youtube.com/watch?v=ceEH3uJY5a0)
 
 <h2>👨‍💻Environments and Technologies Used👨‍💻</h2>
 
