@@ -146,7 +146,9 @@ __"C:/inetpub/wwwroot/osticket/include/osT-config.php"__
 <p><img src="https://user-images.githubusercontent.com/121436228/211038165-09ab0600-43bf-4622-98b0-4395fb48bc4b.jpg"/>
 </p>
 25. Go back the osTicket Installer then click "Continue"
+
 26. Fill out the Basic Information
+
 <p><img src="https://user-images.githubusercontent.com/121436228/211041427-52356d64-348d-4fc4-ba48-c45a0fa47a9d.jpg"/>
 </p>
 
