@@ -179,14 +179,35 @@ HeidiSQL is used for directory operation purposes and we are going to connect it
 1. Go back to the osTicket Installer's Webpage
 2. Under the Database Setting's section fill out the Database name as "osTicket"
 3. MySQL's username as "root"
-4. Put your password
+4. Put the password
 
 
 5. Then hit "Continue"
-6.  __🎉CONGRATULATIONS🎉__
+6.  __🎉CONGRATULATIONS osTICKET'S PROGRAM IS FINALLY RUNNING🎉__
 <p><img src="https://user-images.githubusercontent.com/121436228/211047275-640d5fb4-1316-42b8-8ac3-5bf62851a177.jpg">
 </p>
 
+<h2>🧹Clean-Up Time🧹</h2>
+1. Do you see that warning sign? ⚠️
+Let's delete the "Setup Directory" folder for security purposes.
+
+<p><img src="https://user-images.githubusercontent.com/121436228/211050105-10209447-b19b-40c6-b517-35bbf9154be9.jpg"/>
+  </p>
+
+2. Go to "File Explorer" then to C:/inetpub/wwwroot/osTicket/Setup
+3. Select "all the files"
+4. Right click then "delete"
+5. 
+6. Go to C:/inetpub/wwwroot/osTicket then delete the "Setup" folder
+
+<p><img src="https://user-images.githubusercontent.com/121436228/211050284-55db4bb0-c19a-40c3-b4ed-35ef2b0b6d68.jpg"/>
+  </p>
+  
+<h2>osTicket's Post-Installation</h2>
+  
+  
+  
+      
 
 
 
