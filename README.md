@@ -111,7 +111,7 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 <p><img src="https://user-images.githubusercontent.com/121436228/211037491-9cf9bbff-590d-4f22-887a-a252f1090b3b.jpg"/>
 </p>
 
-7. Go to the IIS Manager App to press "restart"
+7. Go to the IIS Manager App to press "Restart"
 <p align="center"><img src="https://user-images.githubusercontent.com/121436228/210875414-7ac492d8-457e-4c9e-b1e5-c231e5feba5d.jpg"/></p>
 
 
