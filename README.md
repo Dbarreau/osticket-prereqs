@@ -205,6 +205,19 @@ HeidiSQL is used for directory operation purposes and we are going to connect it
   </p>
   
 <h2>osTicket's Post-Installation</h2>
+ 1.  When we go back to the osTicket's webpage you can see the User and the Admin's URL
+ <p><img src="https://user-images.githubusercontent.com/121436228/211053324-633f27f4-7ed5-4908-88cd-f6e29c70d7a9.jpg"/>
+  </p>
+ 
+ 2. This is how the User fill out a new ticket or check their ticket's status
+<p><img src="https://user-images.githubusercontent.com/121436228/211053375-ec170f6d-6738-4262-8504-567e06d7d385.jpg"/>
+  </p>
+  
+3. Here is where the Admin Log in and inside osTicket's operation
+<p><img src="https://user-images.githubusercontent.com/121436228/211053390-4503f404-3716-46d5-8fb9-d4aedb463dca.jpg"/>
+  </p>
+  <p><img src="https://user-images.githubusercontent.com/121436228/211053411-7eb24c1b-866a-448c-bde9-27020b7cfd3b.jpg"/>
+  </p>
   
   
  
