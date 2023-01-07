@@ -13,7 +13,7 @@ reference https://github.com/joshmadakorcc
 </p>
 
 
-<h1><img src="https://user-images.githubusercontent.com/121436228/211123101-69fa7449-525a-4023-8833-f4d15d785184.png"/>osTicket<img src="https://user-images.githubusercontent.com/121436228/211123108-8b4252cc-6478-40b1-9521-990565df7014.png"/> - Rudiments and Installation</h1>
+<h1><img src="https://user-images.githubusercontent.com/121436228/211123101-69fa7449-525a-4023-8833-f4d15d785184.png"/>osTicket - Rudiments and Installation<img src="https://user-images.githubusercontent.com/121436228/211123108-8b4252cc-6478-40b1-9521-990565df7014.png"/></h1>
 This repository displays the tutorial of the osTicket's installation and its rudiments (prerequisites). The first rudiment begins with composing a virtual machine via Microsoft Azure. After that, there is a series of programs to support osTicket Ticketing System: IIS, Web Platform Installer, and HeidiSQL.<br />
 
 
