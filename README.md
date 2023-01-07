@@ -14,14 +14,14 @@ reference https://github.com/joshmadakorcc
 
 
 <h1><img src="https://user-images.githubusercontent.com/121436228/211123101-69fa7449-525a-4023-8833-f4d15d785184.png"/>osTicket - Rudiments and Installation<img src="https://user-images.githubusercontent.com/121436228/211123108-8b4252cc-6478-40b1-9521-990565df7014.png"/></h1>
-This repository displays the tutorial of the osTicket's installation and its rudiments (prerequisites). The first rudiment begins with composing a virtual machine via Microsoft Azure. After that, there is a series of programs to support osTicket Ticketing System: IIS, Web Platform Installer, and HeidiSQL.<br />
+Welcome, this archive displays the tutorial of the osTicket's rudiments (prerequisites) and installation. The first rudiment begins with composing a virtual machine via Microsoft Azure. After that, there is a series of programs to support the osTicket Ticketing System.<br />
 
 
 <h2><img src="https://user-images.githubusercontent.com/121436228/209778109-d136551c-80f5-4185-a43b-fd1bab7a2fcb.png">
 Video Demonstration<img src="https://user-images.githubusercontent.com/121436228/209778109-d136551c-80f5-4185-a43b-fd1bab7a2fcb.png"></h2> 
   
-- ###  [YouTube: How To Create A Virtual Machine: First Prerequisite](https://youtu.be/YGWak28859s)
-- ###  [YouTube: How To Install osTicket With Prerequisites](https://www.youtube.com/watch?v=ceEH3uJY5a0)
+- ###  [YouTube: How To Create A Virtual Machine: First Rudiment](https://youtu.be/YGWak28859s)
+- ###  [YouTube: How To Install osTicket With Rudiments](https://www.youtube.com/watch?v=ceEH3uJY5a0)
 
 <h2>👨‍💻Environments and Technologies Used👨‍💻</h2>
 
@@ -33,7 +33,7 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 
 - Windows 10 Pro</b> (21H2)
 
-<h2>📋List of Prerequisites📋</h2>
+<h2>📋List of Rudiments📋</h2>
 
 - Install a __Virtual Machine__ with Microsoft Azure
 - Install Web Server: Internet Information Service __(IIS)__
