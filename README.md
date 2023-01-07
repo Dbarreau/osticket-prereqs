@@ -68,7 +68,7 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 17. __Now The Virtual Machine Installation Complete!__
 
 
-<h2> <img src="https://user-images.githubusercontent.com/121436228/211121739-d18453e4-9d55-4845-85ec-8a968e614174.png"/>Second Rudiment: Installing the Internet Information Service (IIS) <img src=https://user-images.githubusercontent.com/121436228/211121751-8b7e050b-4db2-495e-9041-d5aea28c2c36.png"/></h2>
+<h2> <img src="https://user-images.githubusercontent.com/121436228/211121739-d18453e4-9d55-4845-85ec-8a968e614174.png"/>Second Rudiment: Installing the Internet Information Service (IIS) <img src="https://user-images.githubusercontent.com/121436228/211121751-8b7e050b-4db2-495e-9041-d5aea28c2c36.png"/></h2>
   <p><img src="https://user-images.githubusercontent.com/121436228/210849746-ffda9b23-7d47-4cbe-9ee4-32a22c3be9f4.jpg"/>
   </p>
  
@@ -78,7 +78,7 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
   4. Then click "OK"
   5. __Internet Information Service Installation Complete!__
 
-<h2> Third Rudiment: Installing Web Platform Installer</h2>
+<h2><img src="https://user-images.githubusercontent.com/121436228/211121976-14bdacec-1381-4444-a533-988c9ac9054a.png"/> Third Rudiment: Installing Web Platform Installer<img src="https://user-images.githubusercontent.com/121436228/211122006-c5d0fa25-841b-4c6c-8d87-62b4470c96bf.png"></h2>
 <p><img src="https://user-images.githubusercontent.com/121436228/210852054-3986cd61-5e35-4e91-a75d-2053a6680ca2.jpg"/>
 </p>
 
