@@ -14,7 +14,7 @@ reference https://github.com/joshmadakorcc
 
 
 <h1><img src="https://user-images.githubusercontent.com/121436228/211123101-69fa7449-525a-4023-8833-f4d15d785184.png"/>osTicket - Rudiments and Installation<img src="https://user-images.githubusercontent.com/121436228/211123108-8b4252cc-6478-40b1-9521-990565df7014.png"/></h1>
-Welcome, this archive displays the tutorial of the osTicket's rudiments (prerequisites) and installation. The first rudiment begins with composing a virtual machine via Microsoft Azure. After that, there is a series of programs to support the osTicket Ticketing System.<br />
+Welcome, this archive displays the tutorial of the osTicket's rudiments (prerequisites) and installation. The first rudiment begins with composing a virtual machine via Microsoft Azure. After that, there is a series of installing programs to support the osTicket Ticketing System.<br />
 
 
 <h2><img src="https://user-images.githubusercontent.com/121436228/209778109-d136551c-80f5-4185-a43b-fd1bab7a2fcb.png">
