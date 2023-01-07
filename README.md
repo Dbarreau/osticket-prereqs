@@ -181,7 +181,7 @@ HeidiSQL is for directory operation purposes and we are going to connect it to P
 
 
 5. Then hit "Continue"
-6.  __🎉CONGRATULATIONS osTICKET'S PROGRAM IS FINALLY RUNNING🎉__
+6.  __🎉CONGRATULATIONS osTICKET'S PROGRAM IS FINALLY RUNNING!!!🎉__
 <p><img src="https://user-images.githubusercontent.com/121436228/211047275-640d5fb4-1316-42b8-8ac3-5bf62851a177.jpg">
 </p>
 
