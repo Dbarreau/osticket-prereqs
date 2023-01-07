@@ -154,7 +154,7 @@ __"C:/inetpub/wwwroot/osticket/include/osT-config.php"__
 
 27. __The osTicket Installer's process is almost finish because the HeidiSQL is the database's "middle man"__
 
-<h2>Fifth Rudiment: Installing the HeidiSQL Program</h2>
+<h2><img src="https://user-images.githubusercontent.com/121436228/211122699-0220dafc-c7ae-4b5b-86c6-512481e5ef40.png"/>Fifth Rudiment: Installing the HeidiSQL Program<img src="https://user-images.githubusercontent.com/121436228/211122711-7d974ae3-fe0c-4590-ab70-a5ac2ce4a3af.png"/></h2>
 1. Download "HeidiSQL"
 <p><img src="https://user-images.githubusercontent.com/121436228/211042600-789912b0-9877-4612-81c2-324cdd78c0b6.jpg"/>
 </p>
@@ -205,7 +205,7 @@ HeidiSQL is used for directory operation purposes and we are going to connect it
 <p><img src="https://user-images.githubusercontent.com/121436228/211050284-55db4bb0-c19a-40c3-b4ed-35ef2b0b6d68.jpg"/>
   </p>
   
-<h2>osTicket's Post-Installation</h2>
+<h2><img src="https://user-images.githubusercontent.com/121436228/211122366-73a28fe2-5073-48f8-a34a-1d91b1348233.png"/>osTicket's Post-Installation<img src="https://user-images.githubusercontent.com/121436228/211122366-73a28fe2-5073-48f8-a34a-1d91b1348233.png"/></h2>
  1.  When we go back to the osTicket's webpage you can see the User and the Admin's URL
  <p><img src="https://user-images.githubusercontent.com/121436228/211053324-633f27f4-7ed5-4908-88cd-f6e29c70d7a9.jpg"/>
   </p>
