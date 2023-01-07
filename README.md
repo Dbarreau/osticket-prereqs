@@ -27,7 +27,8 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Web Server: Internet Information Services (IIS)
+- Port 3306 (MySQL TCP/IP)
 
 <h2><img src="https://user-images.githubusercontent.com/121436228/211121502-3546a566-3e37-4bb4-b540-d3695714b4f9.png"/>Operating Systems Used<img src="https://user-images.githubusercontent.com/121436228/211121509-f417eb8c-5f03-4808-9a69-97b1ed234783.png"/></h2>
 
