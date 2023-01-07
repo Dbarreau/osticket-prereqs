@@ -167,7 +167,7 @@ HeidiSQL is used for directory operation purposes and we are going to connect it
 </p>
 
 3. Then hit "Open"
-4. Right click "__unnamed__"➪Create➪A New Database
+4. Right click "__Unnamed__"➪Create➪A New Database
 5. Make sure you name the new Database "osTicket" correctly
 <p><img src="https://user-images.githubusercontent.com/121436228/211044679-052004df-37cf-4114-b658-2990dbcbfbff.jpg"/>
   </p>
