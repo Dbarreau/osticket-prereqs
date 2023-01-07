@@ -99,7 +99,7 @@ Video Demonstration<img src="https://user-images.githubusercontent.com/121436228
 
 5. __The Web Platform Installer, PHP Manager and Microsoft Visual C++ Installation Complete!__
 
-<h2> Fourth Rudiment: Installing the osTicket Installer (Part 1)</h2>
+<h2> <img src="https://user-images.githubusercontent.com/121436228/211122366-73a28fe2-5073-48f8-a34a-1d91b1348233.png"/> Fourth Rudiment: Installing the osTicket Installer (Part 1)<img src="https://user-images.githubusercontent.com/121436228/211122366-73a28fe2-5073-48f8-a34a-1d91b1348233.png"/></h2>
 <p><img src="https://user-images.githubusercontent.com/121436228/210858079-69bb32c5-93f2-4857-9e4d-5bf23a928386.jpg"/></p>
 
 1. Download the __osTicket v.1.15.8 Installer__
@@ -176,7 +176,7 @@ HeidiSQL is used for directory operation purposes and we are going to connect it
 8. __The HeidiSQL's installation is complete!__
 
 
-<h2>Fourth Rudiment: Installing the osTicket Installer (Part 2)</h2>
+<h2><img src="https://user-images.githubusercontent.com/121436228/211122366-73a28fe2-5073-48f8-a34a-1d91b1348233.png"/>Fourth Rudiment: Installing the osTicket Installer (Part 2)<img src="https://user-images.githubusercontent.com/121436228/211122366-73a28fe2-5073-48f8-a34a-1d91b1348233.png"/></h2>
 
 1. Go back to the osTicket Installer's Webpage
 2. Under the Database Setting's section fill out the Database name as "osTicket"
