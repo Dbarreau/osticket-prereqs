@@ -200,6 +200,13 @@ HeidiSQL is for directory operation purposes and we are going to connect it to P
 
 <p><img src="https://user-images.githubusercontent.com/121436228/211050284-55db4bb0-c19a-40c3-b4ed-35ef2b0b6d68.jpg"/>
   </p>
+<p>6. Go to C:/inetpub/wwwroot/osTicket/Include/osT-config, so we can adjust the permission to files
+</p> 
+7. Right-Click "osT-config" and then go to "Properties" ➪ Security Tab ➪ Advanced button
+8. Click-on "Everyone" and then "Edit"
+9. Uncheck the "Full control" and "Modify" box
+10. Check the "Read & Execute" box
+11. Hit "OK" and then "Apply" the latest permission
  
 <h2><img src="https://user-images.githubusercontent.com/121436228/211122366-73a28fe2-5073-48f8-a34a-1d91b1348233.png"/>osTicket's Post-Installation<img src="https://user-images.githubusercontent.com/121436228/211122366-73a28fe2-5073-48f8-a34a-1d91b1348233.png"/></h2>
  1. When we go back to the osTicket's webpage, you can see the User and the Admin's URL
