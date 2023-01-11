@@ -203,9 +203,13 @@ HeidiSQL is for directory operation purposes and we are going to connect it to P
 <p>6. Go to C:/inetpub/wwwroot/osTicket/Include/osT-config, so we can adjust the permission to files
 </p> 
 7. Right-Click "osT-config" and then go to "Properties" ➪ Security Tab ➪ Advanced button 
-8. Click-on "Everyone" and then "Edit" 
+
+8.  Click-on "Everyone" and then "Edit" 
+
 9. Uncheck the "Full control" and "Modify" box
+
 10. Check the "Read & Execute" box 
+
 11. Hit "OK" and then "Apply" the latest permission
  
 <h2><img src="https://user-images.githubusercontent.com/121436228/211122366-73a28fe2-5073-48f8-a34a-1d91b1348233.png"/>osTicket's Post-Installation<img src="https://user-images.githubusercontent.com/121436228/211122366-73a28fe2-5073-48f8-a34a-1d91b1348233.png"/></h2>
